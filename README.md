@@ -1,2 +1,1 @@
-# Lyft-task-2
-task-2
+# Task 2 model answer
